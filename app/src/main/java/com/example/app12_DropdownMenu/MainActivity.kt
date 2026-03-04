@@ -100,6 +100,6 @@ fun MyDropdownMenu1() {
 
     }
 
-    Text("DropdownMenu bàsic")
+    Text("DropdownMenu bàsic per continuar fent proves")
 
 }
